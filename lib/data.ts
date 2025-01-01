@@ -35,12 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Undergrade student",
+    location: "Karachi, Pakistan",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I am undergrade  student. I immediately found a job as a front-end developer.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2025",
   },
   {
     title: "Front-End Developer",
@@ -97,7 +97,7 @@ export const skillsData = [
   "Prisma",
   "MongoDB",
   "Redux",
-  "GraphQL",
+  ,
   "Apollo",
   "Express",
   "PostgreSQL",
